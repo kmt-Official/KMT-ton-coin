@@ -1,0 +1,17 @@
+{
+  "name": "Karmatic Token",
+  "symbol": "KMT$",
+  "decimals": "9",
+  "description": "KMT is the utility token of the K.M.T ecosystem.",
+  "image": "https://res.cloudinary.com/coinfactory/image/upload/v1756810990/ton/jrsbj5gdmfosn7sfp6ji.jpg">",
+  "external_url": "https://karmatic.net",
+  "socials": {
+    "telegram": "https://t.me/karmatic",
+    "twitter": "https://x.com/karmatic"
+  },
+  "dex": {
+    "stonfi_swap": "https://app.ston.fi/swap?from=TON&to=<EQAAxmhcV-0OESlw-IQMZ6B-1mxS47z8KLw6tNLZBv9wMJ_G>",
+    "dedust_pool": "https://dedust.io/swap/TON-<KMT$>"
+  },
+  "version": "v1"
+}
